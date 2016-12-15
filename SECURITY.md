@@ -26,39 +26,44 @@ coordinator.
 Typically Orpiva has a five step disclosure policy, which we try to follow to the best of our ability.
 
 1. Security report received and is assigned a primary handler. This person will
-   coordinate the fix and release process.  2. Problem is confirmed and, a list of
-   all affected versions is determined. Code is audited to find any potential
-   similar problems.
-3. Fixes are prepared and we will contact you with further questions if necessary. 
-   These fixes are appled to our internal development and staging environments for testing and QA.
-4. A suggested embargo date for this vulnerability is chosen and discussed with you.
-   This notification will include information about our applied patches to resolve this bug.
-   Should this bug result from some FOSS software vulerability the message will include various
-   reports to the respective maintainers.
-5. On the embargo date, you are sent a copy of the final announcement. 
+   coordinate the fix and release process.
+2. Problem is confirmed and a list of all affected versions is determined. Code is audited to find
+   any potential similar problems. We will contact you with further questions if necessary.
+3. Fixes are prepared as quickly as possible and appled to our internal development and staging
+   environments for testing and QA.
+4. A suggested embargo date for this vulnerability is chosen and reconfirmed with you. This
+   notification will include information about our applied patches to resolve this bug.
+   Should this bug result from some FOSS software vulerability we use the message will include
+   various reports to the respective maintainers and links.
+5. On the embargo date, you are sent a copy of the final announcement.
    The changes will already be applied to the production system and the bug should be resolved.
 
 Typically the embargo date will be set to 72 hours following the time of first
 notification, however this may vary depending on the severity of the bug or
 difficulty in applying a fix.
 
-This process can take some time, especially when coordination is required with
-maintainers of other projects. Every effort will be made to handle the bug in
-as timely a manner as possible, however it is important that we follow the
-release process above to ensure that the disclosure is handled in a consistent
+This process can take some time, especially when coordination is required with maintainers of other
+projects. Every effort will be made to handle the bug in a timely manner, however it is important
+that we follow the release process above to ensure that the disclosure is handled in a consistent
 manner.
 
 I hope for your understanding and support with this.
 
 ## Rewards
 
-We greatly value your contribution and integrity in disclosing this issue to us, thus we 
-reward every accepted disclosure on completiton with at least 50 USD and a t-shirt.
+We take security experts like yourself very seriously and greatly value your contribution.
+
+As a reward and a token of our gratitude in disclosing this issue to us, we 
+compensate every accepted disclosure on completiton with at least 50 USD and a t-shirt.
+
 If you find a very serious bug we will increase this reward accordingly.
 
+You rock!
 
 ## Comments on this Policy
 
-If you have any suggestions to improve this policy, please send an email to the
-core team at [security@orpiva.com](mailto:security@orpiva.com). Any feedback is appreciated.
+If you have any suggestions on how to improve this policy, please send an email to the
+core team at [security@orpiva.com](mailto:security@orpiva.com).
+
+Any feedback is appreciated!
 
