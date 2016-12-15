@@ -1,8 +1,6 @@
 
 ![Orpiva Logo](https://github.com/Orpiva/Orpiva/blob/master/logos/heart-transparent-small.png)
 
-# README
-
 ## Table of contents
 
 - [Reporting a security issue](https://github.com/Orpiva/Orpiva/blob/master/SECURITY.md)
