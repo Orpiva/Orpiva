@@ -2,7 +2,7 @@
 
 ## Table of contents
 
-- [Reporting a security issue](https://github.com/orpiva/orpiva/SECURITY.md)
+- [Reporting a security issue](https://github.com/Orpiva/Orpiva/blob/master/SECURITY.md)
 
 ## About us
 
