@@ -1,5 +1,5 @@
 
-![Orpiva Logo](https://github.com/Orpiva/Orpiva/blob/master/logos/heart-transparent.png)
+![Orpiva Logo](https://github.com/Orpiva/Orpiva/blob/master/logos/heart-transparent-small.png)
 
 # README
 
