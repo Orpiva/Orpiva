@@ -1,3 +1,6 @@
+
+![Orpiva Logo](https://github.com/Orpiva/Orpiva/blob/master/logos/heart-transparent.png)
+
 # README
 
 ## Table of contents
